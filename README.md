@@ -7,11 +7,14 @@
 <br>
 <li> 🌱  Constantly learning, building, and sharing projects that make an impact.
 <br><br><br>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" 
-     width="30" height="30" 
-     style="position: relative; top: 22px;">
-Feel free to connect or check out my work below! 
-<br>
+<p>
+    <span style="display: inline-block; position: relative; top: 22px;">
+        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" 
+             width="30" height="30">
+    </span>
+    Feel free to connect or check out my work below! 
+</p>
+
 
 
 ## 🌐 Lets Connect:
