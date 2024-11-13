@@ -1,5 +1,5 @@
 # 🎬  About Me:
-• 👋🏼 Hi, I’m Ricky Pena, a UH Alumni based in Houston, TX.
+• 👋🏼 Hi, I’m Ricky Peña Jr., a University of Houston Undergraduate Senior based in Houston, TX.
 <br>
 • 📊  Currently diving into data science and analytical projects with a focus on actionable insights.
 <br>
