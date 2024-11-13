@@ -1,4 +1,4 @@
-# 🎬  About Me:
+# 🎬<img src="images/welcome.png" alt="Welcome Emoji" width="100" height="100">  About Me:
 <li> 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="18" height="18"> Houston, TX.
 <br>
 <li> 📊  Currently working on analytical projects with a focus on actionable insights.
