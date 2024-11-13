@@ -7,7 +7,7 @@
 <br>
 <li> 🌱  Constantly learning, building, and sharing projects that make an impact.
 <br><br><br>
-Feel free to connect or check out my work below!    🚀
+Feel free to connect or check out my work below!  🚀
 <br>
 
 
