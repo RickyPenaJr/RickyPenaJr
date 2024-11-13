@@ -1,5 +1,5 @@
 # 🎬  About Me:
-• 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in Houston, TX.
+<li> • 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in Houston, TX.
 <br>
 • 📊  Currently working on analytical projects with a focus on actionable insights.
 <br>
