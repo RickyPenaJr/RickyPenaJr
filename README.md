@@ -3,7 +3,7 @@
 <br>
 <li> 📊  Currently working on analytical projects with a focus on actionable insights.
 <br>
-<li>  👨🏻‍💻  Passionate about Data Science, Front-End Web Development, and exploring emerging trends that shape the future.
+<li>  👨🏻‍💻  Passionate about Data Science, Front-End Web Development, and exploring emerging trends.
 <br>
 <li> 🌱  Constantly learning, building, and sharing projects that make an impact.
 <br><br>
