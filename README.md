@@ -1,19 +1,10 @@
-#    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" About Me:
-<li> 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="18" height="18"> Houston, TX.
-<br>
-<li> 📊  Currently working on analytical projects with a focus on actionable insights.
-<br>
-<li>  👨🏻‍💻  Passionate about Data Science, Front-End Web Development, and exploring emerging trends.
-<br>
-<li> 🌱  Constantly learning, building, and sharing projects that make an impact.
+# 🎬 About Me:
+<li> 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="18" height="18"> Houston, TX.<br>
+<li> 📊   Currently working on analytical projects with a focus on actionable insights.<br>
+<li> 👨🏻‍💻   Passionate about Data Science, Front-End Web Development, and exploring emerging trends.<br>
+<li> 🌱   Constantly learning, building, and sharing projects that make an impact.
 <br><br><br>
-<p>
-    <span style="display: inline-block; position: relative; top: 22px;">
-        <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" 
-             width="30" height="30">
-    </span>
-    Feel free to connect or check out my work below! 
-</p>
+Feel free to connect or check out my work below! ⬇️
 
 
 
