@@ -1,4 +1,4 @@
-<h1>🎬&nbsp; About Me:</h1> 
+<h1>![welcome (3)](https://github.com/user-attachments/assets/ab9af009-efcf-4b9f-98b2-415d6c998c97)&nbsp; About Me:</h1> 
 <li> 👋🏼  Hi, I’m Ricky Peña, a <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="18" height="18"> University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="18" height="18"> Houston, TX.<br>
 <li>📊   Currently working on analytical projects with a focus on actionable insights.<br>
 <li>👨🏻‍💻   Passionate about Data Science, Front-End Web Development, and exploring emerging trends.<br>
@@ -6,7 +6,7 @@
 <br><br><br>
 Feel free to connect or check out my work below! ⬇️
 
-![welcome (3)](https://github.com/user-attachments/assets/ab9af009-efcf-4b9f-98b2-415d6c998c97)
+
 
 
 
