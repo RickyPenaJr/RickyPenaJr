@@ -1,7 +1,7 @@
 # 🎬  About Me:
 • 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in Houston, TX.
 <br>
-• 📊  Currently diving into data science and analytical projects with a focus on actionable insights.
+• 📊  Currently working on analytical projects with a focus on actionable insights.
 <br>
 • 👨🏻‍💻  Passionate about Data Science, Front-End Web Development, and exploring emerging trends that shape the future.
 <br>
