@@ -6,7 +6,7 @@
 <li>  👨🏻‍💻  Passionate about Data Science, Front-End Web Development, and exploring emerging trends.
 <br>
 <li> 🌱  Constantly learning, building, and sharing projects that make an impact.
-<br><br>
+<br><br><br>
 Feel free to connect or check out my work below! 🚀
 <br>
 
