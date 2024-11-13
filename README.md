@@ -5,7 +5,8 @@
 <li>🌱   Constantly learning, building, and sharing projects that make an impact.
 <br><br><br>
 Feel free to connect or check out my work below! ⬇️
-![houston-cougars (6)](https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b)
+<img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" 
+             alt="Houston Cougars Logo" width="15" height="15">
 
 
 
