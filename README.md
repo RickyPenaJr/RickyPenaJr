@@ -8,7 +8,7 @@ Feel free to connect or check out my work below! ⬇️
 
 
 
-## 🌐&nbsp;Lets Connect:
+## 🌐&nbsp; Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rickypenajr) 
 
 ## 💻 Tech Stack:
