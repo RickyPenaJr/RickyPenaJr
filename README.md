@@ -1,6 +1,6 @@
 <h1>
   <img src="https://github.com/user-attachments/assets/3852ab7f-4bfe-4253-ad9c-f8eedca86b8e" alt="Welcome" width="35">&nbsp; About Me:</h1> 
-<li> 👋🏼  Hi, I’m Ricky Peña, An MIS & Finance Undergradute at the <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="18" height="18"> University of Houston based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="18" height="18"> Houston, TX.<br>
+<li> 👋🏼  Hi, I’m Ricky Peña, An MIS & Finance Undergradute at the <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="20" height="20"> University of Houston based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="20" height="20"> Houston, TX.<br>
 <li>📊   Currently working on analytical projects with a focus on actionable insights.<br>
 <li>👨🏻‍💻   Passionate about Data Science, Business Intelligence, and Analytics.<br>
 <li>🌱   Constantly learning, building, and sharing projects that make an impact.
