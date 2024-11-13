@@ -1,5 +1,5 @@
 # 🎬  About Me:
-<li> 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="14"> Houston, TX.
+<li> 👋🏼  Hi, I’m Ricky Peña, a University of Houston Undergrad based in <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="15" height="15"> Houston, TX.
 <br>
 <li> 📊  Currently working on analytical projects with a focus on actionable insights.
 <br>
