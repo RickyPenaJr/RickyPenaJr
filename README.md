@@ -1,7 +1,7 @@
 <h1>
   <img src="https://github.com/user-attachments/assets/3852ab7f-4bfe-4253-ad9c-f8eedca86b8e" alt="Welcome" width="35">&nbsp; About Me:</h1> 
 <li> 👋🏼 I’m Ricky Peña Jr., An UH Alumni <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="20" height="20"> based in Houston, TX. <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="20" height="20"><br>
-<li>👨🏻‍💻   Interested in Data Science, Business Intelligence, and Analytics.<br>
+<li>👨🏻‍💻   Interested in Data Science, Business Intelligence, Product Management, And Analytics.<br>
 <li>📊   Actively working on analytical projects related to personal hobbies.<br>
 <li>🌱   Constantly learning, building, and sharing data-related projects.
 <br><br><br>
