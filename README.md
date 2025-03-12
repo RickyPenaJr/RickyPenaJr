@@ -1,7 +1,7 @@
 ![GitHub-Banner](https://github.com/user-attachments/assets/74744858-5514-4891-bc4a-c901d277e3e3)
 
 <h2>
-<img src="https://github.com/user-attachments/assets/3852ab7f-4bfe-4253-ad9c-f8eedca86b8e" alt="Welcome" width="35">&nbsp; 
+<img src="https://github.com/user-attachments/assets/image1" alt="Welcome" width="35">&nbsp; 
 About Me:
 </h2> 
 
