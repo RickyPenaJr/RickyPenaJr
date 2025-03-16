@@ -13,7 +13,7 @@
 <li>👨🏻‍💻   Interested in Data Science, Business Intelligence, Product Management, And Analytics.<br>
 <li>📊   Actively working on analytical projects related to personal hobbies.<br>
 <li>🌱   Constantly learning, building, and sharing data-related projects.
-<br><br><br>
+<br><br>
 Feel free to check out my work below ⬇️
 <br>
 <br>
