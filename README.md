@@ -8,7 +8,7 @@
  About Me:</h2> 
 
  
-<li> 👋🏼 I’m Ricky Peña Jr., An UH Bauer Alumni <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="20" height="20"> and current GT MS Analytics Student <img src= "https://github.com/user-attachments/assets/2d741fe8-1657-4b98-9c41-513d6a8416e4" alt="GT Tech Logo" width="22" height="22"> based in Houston, TX. <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="20" height="20"><br>
+<li> 👋🏼 I’m Ricky Peña Jr., An UH Bauer Alum <img src="https://github.com/user-attachments/assets/fcd2b081-6d85-49e0-8379-5c417954c76b" alt="Houston Cougars Logo" width="20" height="20"> and current GT MS Analytics Student <img src= "https://github.com/user-attachments/assets/2d741fe8-1657-4b98-9c41-513d6a8416e4" alt="GT Tech Logo" width="22" height="22"> based in Houston, TX. <img src="https://cdn-icons-png.flaticon.com/512/2318/2318495.png" alt="Texas Icon" width="20" height="20"><br>
 <li>👨🏻‍💻   Interested in Data Science, Business Intelligence, And Data Analytics.<br>
 <li>📊   Actively working on analytical projects related to personal hobbies with Python, SQL, and R.<br>
 <li>🌱   Constantly learning, building, and sharing data-related projects.
