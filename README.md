@@ -1,4 +1,3 @@
-![GitHub-Banner](https://github.com/user-attachments/assets/74744858-5514-4891-bc4a-c901d277e3e3)
 ![Github Banner Versions - V1](https://github.com/user-attachments/assets/62715d74-b537-45e2-8fc2-dc74e10636aa)
 
  
