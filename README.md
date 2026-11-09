@@ -66,6 +66,3 @@ Feel free to check out my work below ⬇️
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rickypenajr&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
