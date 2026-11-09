@@ -59,12 +59,9 @@ Feel free to check out my work below ⬇️
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rickypenajr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rickypenajr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rickypenajr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
+![](https://github-readme-stats.shion.dev/api?username=rickypenajr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rickypenajr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rickypenajr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
