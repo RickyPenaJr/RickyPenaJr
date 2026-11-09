@@ -53,7 +53,8 @@ Feel free to check out my work below ⬇️
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<br>
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rickypenajr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
